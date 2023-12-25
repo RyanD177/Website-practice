@@ -1,6 +1,6 @@
 
 // going over some fundametals because why not
-const arr = [1,2,3];
+const arr = [6,7,3,9];
 
 
 // for(const value of arr){
@@ -38,3 +38,19 @@ const arr = [1,2,3];
 // }, {num : 0});
 // console.log(allPass);
 
+
+// const sortTheArray  = arr.sort(function(a, b)  {
+//     return a - b
+
+// })
+
+// console.log(sortTheArray)
+
+
+//  function sortTheArray (firstNum, secondNum) {
+//     return secondNum - firstNum
+
+
+// }
+
+// console.log(arr);
